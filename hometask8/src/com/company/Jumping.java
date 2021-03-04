@@ -1,2 +1,5 @@
-package com.company;public interface Jumping {
+package com.company;
+
+public interface Jumping {
+    int jump();
 }
