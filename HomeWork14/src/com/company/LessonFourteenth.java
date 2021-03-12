@@ -1,8 +1,7 @@
 package com.company;
 
-public class Main {
-    public void main(String[] args) {
-
+public class LessonFourteenth {
+    public static void main(String[] args) {
 
     }
 
